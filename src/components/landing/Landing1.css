@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.landing{
+    width: 50%;
+   height: 100vh;
+    color: white;
+  background-image: url(../../assests/bgimage1.jpg);
+ 
+  background-repeat: no-repeat;
+background-size: 100vh;
+
+display: flex;
+    flex-direction: column;
+  justify-content: space-between;
+  
+}
+p,h1{
+    padding: 2rem;
+    
+}
+button{
+    background: #72DB73;;
+    border-radius: 100px;
+    padding: .25rem 1rem;
+    color: white;
+}
